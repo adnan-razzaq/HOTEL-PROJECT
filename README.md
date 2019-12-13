@@ -1,2 +1,2 @@
 # HOTEL-PROJECT
-A simp;e project using html and css
+A simple project using html and css
